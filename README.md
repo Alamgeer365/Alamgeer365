@@ -2,6 +2,10 @@
 <h3 align="center">Data Analyst Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
+  <img src="./assets/Alamgeer.png" alt="Alamgeer Shekh" width="220" />
+</p>
+
+<p align="center">
   Python | SQL | Pandas | NumPy | Excel | Power BI | Django | DRF | React
 </p>
 
