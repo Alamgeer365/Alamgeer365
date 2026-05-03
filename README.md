@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Alamgeer Shekh</h1>
-<h3 align="center">Full-Stack Developer | Aspiring Data Analyst | B.Tech CSE Student</h3>
+<h3 align="center">Data Analyst Enthusiast | Full-Stack Developer | B.Tech CSE Student</h3>
 
 <p align="center">
   I build practical web applications, clean APIs, and data-driven dashboards that solve real problems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Django+REST+Framework+%2B+React+Developer;Python+%7C+SQL+%7C+Java;Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Jupyter;Excel+%7C+Power+BI+%7C+Data+Storytelling;Building+projects+that+connect+software+and+analytics" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Data+Analyst+Enthusiast+%7C+Full-Stack+Developer;Python+%7C+SQL+%7C+Pandas+%7C+NumPy;Excel+%7C+Power+BI+%7C+Matplotlib+%7C+Jupyter;Django+%7C+DRF+%7C+React+%7C+MySQL;Building+products+and+turning+data+into+insights" alt="Typing intro" />
 </p>
 
 ## About Me
@@ -110,4 +110,4 @@
 
 ## Profile Bio
 
-`Full-Stack Developer | Django, React, DRF | Python, Pandas, NumPy, Power BI | Turning ideas and data into useful products`
+`Data Analyst Enthusiast | Full-Stack Developer | Python, Pandas, NumPy, Excel, Power BI | Turning data and ideas into useful products`
