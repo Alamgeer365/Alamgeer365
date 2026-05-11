@@ -5,6 +5,12 @@
   Python | SQL | Pandas | NumPy | Excel | Power BI | Django | DRF | React
 </p>
 
+<p align="center">
+  <a href="https://portfolio-alamgeer-shekh-73.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/Alamgeer365">GitHub</a> •
+  <a href="mailto:alamgeershekh365@gmail.com">Email</a>
+</p>
+
 ## Intro
 
 - B.Tech CSE student at Buddha Institute of Technology, Gorakhpur.
@@ -38,6 +44,7 @@
 
 - Email: `alamgeershekh365@gmail.com`
 - GitHub: `github.com/Alamgeer365`
+- Portfolio: `portfolio-alamgeer-shekh-73.vercel.app`
 
 ## Bio
 
