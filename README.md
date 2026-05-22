@@ -1,9 +1,5 @@
-<h1 align="center">Hi, I'm Alamgeer Shekh</h1>
-<h3 align="center">Data Analyst Enthusiast | Full-Stack Developer</h3>
-
-<p align="center">
-  Python | SQL | Pandas | NumPy | Excel | Power BI | Django | DRF | React
-</p>
+<h1 align="center">Hi 👋, I'm Alamgeer Shekh</h1>
+<h3 align="center">Full-Stack Developer | Data Analytics Enthusiast</h3>
 
 <p align="center">
   <a href="https://portfolio-alamgeer-shekh-73.vercel.app/">Portfolio</a> •
@@ -11,41 +7,94 @@
   <a href="mailto:alamgeershekh365@gmail.com">Email</a>
 </p>
 
-## Intro
+---
+
+## About Me
 
 - B.Tech CSE student at Buddha Institute of Technology, Gorakhpur.
-- Interested in data analysis, dashboards, and full-stack web development.
-- I like turning data and ideas into useful products.
+- Skilled in full-stack development using React, Django REST Framework, Node.js, and MySQL.
+- Interested in Data Analytics, Power BI dashboards, backend APIs, and real-world web applications.
+- Currently improving DSA, SQL, and data visualization skills.
+
+---
 
 ## Experience
 
-**Software Developer Intern - Digi Quest Consultancy Services**
+**Software Developer Intern — Digi Quest Consultancy Services**
 
 - Built a healthcare web application using React, Django REST Framework, and MySQL.
-- Worked with 10,000+ patient records, secure role-based access, and API development.
+- Worked on secure role-based access, REST APIs, and 10,000+ patient records.
 - Created dashboards and reports for healthcare metrics and performance tracking.
 
-## Technology
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## Tech Stack
 
-## Connect
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,django,mysql,mongodb,html,css,tailwind,git,github,vscode" />
+</p>
 
-- Email: `alamgeershekh365@gmail.com`
-- GitHub: `github.com/Alamgeer365`
-- Portfolio: `portfolio-alamgeer-shekh-73.vercel.app`
+---
 
-## Bio
+## Data Tools
 
-`Data Analyst Enthusiast | Full-Stack Developer | Python, SQL, Pandas, Power BI`
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+### Health Mate Go
+MERN-based healthcare platform with admin, patient, and doctor roles, appointment system, and AI symptom checking.
+
+### Tech Path Finder
+MERN-based career guidance platform with admin features and structured learning path support.
+
+### Blogging Web Application
+React and Django REST Framework based blogging system with JWT authentication, role-based access, and post approval workflow.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alamgeer365&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alamgeer365&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamgeer365&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alamgeer365&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:alamgeershekh365@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alamgeershekh365%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Alamgeer365">
+    <img src="https://img.shields.io/badge/GitHub-Alamgeer365-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://portfolio-alamgeer-shekh-73.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
