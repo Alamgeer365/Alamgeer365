@@ -11,8 +11,7 @@ Java • Python • SQL • React • Django REST Framework • Power BI
 <p align="center">
   <a href="https://portfolio-alamgeer-shekh-73.vercel.app/">Portfolio</a> •
   <a href="mailto:alamgeershekh365@gmail.com">Email</a> •
-  <a href="https://github.com/Alamgeer365">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://github.com/Alamgeer365">GitHub</a>
 </p>
 
 ---
@@ -20,9 +19,9 @@ Java • Python • SQL • React • Django REST Framework • Power BI
 ## 🚀 About Me
 
 - B.Tech CSE student at Buddha Institute of Technology, Gorakhpur.
-- Passionate about full stack development, backend systems, APIs, and data analytics.
-- Skilled in building scalable web applications using React, Django REST Framework, MySQL, and REST APIs.
-- Interested in problem solving, software engineering, dashboards, and real-world applications.
+- Passionate about full stack development, backend systems, REST APIs, and data analytics.
+- Skilled in building scalable web applications using React, Django REST Framework, MySQL, and modern web technologies.
+- Interested in software engineering, dashboards, backend development, and problem solving.
 - Currently improving DSA, SQL, backend development, and data visualization skills.
 
 ---
@@ -34,7 +33,7 @@ Java • Python • SQL • React • Django REST Framework • Power BI
 - Developed healthcare web application modules using React, Django REST Framework, and MySQL.
 - Implemented secure role-based access and REST API integration for 10,000+ patient records.
 - Worked on dashboards and healthcare analytics for monitoring doctor and patient performance.
-- Participated in debugging, API testing, and software development lifecycle activities.
+- Participated in API testing, debugging, and software development lifecycle activities.
 
 ---
 
@@ -67,16 +66,13 @@ Java • Python • SQL • React • Django REST Framework • Power BI
 ## 🌟 Featured Projects
 
 ### 🏥 Health Mate Go
-Healthcare platform with appointment booking, role-based access, and AI-powered symptom checking system.
+Healthcare platform with appointment booking, role-based access, and symptom-based assistance features.
 
 ### 🧭 Tech Path Finder
 Career guidance platform with admin dashboard, structured learning paths, and user management features.
 
 ### ✍️ Blogging Web Application
-JWT-based blogging platform with authentication, role-based access, comment system, and post approval workflow.
-
-### 🤖 AI Chat Assistant
-LLM-powered assistant with prompt engineering and backend API integration for context-aware responses.
+Role-based blogging platform with authentication, post approval workflow, and comment management system.
 
 ---
 
@@ -96,6 +92,10 @@ LLM-powered assistant with prompt engineering and backend API integration for co
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Interests
 
-I enjoy building practical applications, learning scalable backend systems, and improving problem-solving skills through DSA and real-world projects./
+- Full Stack Development
+- Backend Engineering
+- Data Analytics & Dashboards
+- REST API Development
+- Problem Solving & DSA
