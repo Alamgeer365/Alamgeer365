@@ -1,49 +1,52 @@
 <h1 align="center">Hi 👋, I'm Alamgeer Shekh</h1>
 
 <h3 align="center">
-Software Developer | Data Analytics Enthusiast
+Full Stack Developer | Backend & Data Analytics Enthusiast
 </h3>
 
 <p align="center">
-Python • SQL • React • Django REST Framework • Power BI
+Java • Python • SQL • React • Django REST Framework • Power BI
 </p>
 
 <p align="center">
   <a href="https://portfolio-alamgeer-shekh-73.vercel.app/">Portfolio</a> •
   <a href="mailto:alamgeershekh365@gmail.com">Email</a> •
-  <a href="https://github.com/Alamgeer365">GitHub</a>
+  <a href="https://github.com/Alamgeer365">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
 - B.Tech CSE student at Buddha Institute of Technology, Gorakhpur.
-- Interested in software development, backend systems, dashboards, and data analytics.
-- Skilled in building web applications using React, Django REST Framework, MySQL, and REST APIs.
-- Currently improving problem solving, SQL, and data visualization skills.
+- Passionate about full stack development, backend systems, APIs, and data analytics.
+- Skilled in building scalable web applications using React, Django REST Framework, MySQL, and REST APIs.
+- Interested in problem solving, software engineering, dashboards, and real-world applications.
+- Currently improving DSA, SQL, backend development, and data visualization skills.
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Software Developer Intern — Digi Quest Consultancy Services
 
-- Developed healthcare web application features using React, Django REST Framework, and MySQL.
-- Worked with secure role-based access, REST APIs, and 10,000+ patient records.
-- Built dashboards and reports for healthcare metrics and performance tracking.
+- Developed healthcare web application modules using React, Django REST Framework, and MySQL.
+- Implemented secure role-based access and REST API integration for 10,000+ patient records.
+- Worked on dashboards and healthcare analytics for monitoring doctor and patient performance.
+- Participated in debugging, API testing, and software development lifecycle activities.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,django,mysql,mongodb,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,django,mysql,mongodb,html,css,git,github,vscode" />
 </p>
 
 ---
 
-## Data & Analytics Tools
+## 📊 Data & Analytics Tools
 
 <p align="center">
 
@@ -61,20 +64,23 @@ Python • SQL • React • Django REST Framework • Power BI
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
-### Health Mate Go
-Healthcare platform with appointment system, role-based access, and AI-powered symptom checking.
+### 🏥 Health Mate Go
+Healthcare platform with appointment booking, role-based access, and AI-powered symptom checking system.
 
-### Tech Path Finder
-Career guidance platform with admin features and structured learning path support.
+### 🧭 Tech Path Finder
+Career guidance platform with admin dashboard, structured learning paths, and user management features.
 
-### Blogging Web Application
-Role-based blogging platform with JWT authentication and post approval workflow.
+### ✍️ Blogging Web Application
+JWT-based blogging platform with authentication, role-based access, comment system, and post approval workflow.
+
+### 🤖 AI Chat Assistant
+LLM-powered assistant with prompt engineering and backend API integration for context-aware responses.
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alamgeer365&theme=tokyo-night&hide_border=true" />
@@ -82,8 +88,14 @@ Role-based blogging platform with JWT authentication and post approval workflow.
 
 ---
 
-## Connect
+## 📫 Connect With Me
 
-- Email: `alamgeershekh365@gmail.com`
-- Portfolio: `portfolio-alamgeer-shekh-73.vercel.app`
-- GitHub: `github.com/Alamgeer365`
+- 📧 Email: `alamgeershekh365@gmail.com`
+- 🌐 Portfolio: `portfolio-alamgeer-shekh-73.vercel.app`
+- 💻 GitHub: `github.com/Alamgeer365`
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building practical applications, learning scalable backend systems, and improving problem-solving skills through DSA and real-world projects./
